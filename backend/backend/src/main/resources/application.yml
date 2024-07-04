@@ -1,0 +1,8 @@
+
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dome?useSSL=false&useUnicode=true&allowPublicKeyRetrieval=true&characterEncoding=UTF-8&serverTimezone=GMT%2b8
+    username: root
+    password: '060273'
